@@ -1,8 +1,4 @@
-Certainly! Let's add more functions and decision points to the adventure game. I'll introduce a new location, a forest, and additional choices. Copy and paste the following code:
-
-```python
 import time
-
 def intro():
     print("Welcome to the Text Adventure Game!")
     time.sleep(1)
@@ -83,6 +79,3 @@ def start_game():
 
 # Run the game
 start_game()
-```
-
-This version of the game introduces a forest location, a mysterious creature, and an additional decision point. Feel free to continue expanding the story and adding more functions to create a more intricate adventure!
